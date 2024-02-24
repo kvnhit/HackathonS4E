@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\hackathons4echallenge\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|solutionrelative:hackathons4echallenge\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|c:\\users\\dani_\\source\\repos\\danibotelho\\hackathons4e\\hackathons4echallenge\\setor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|solutionrelative:hackathons4echallenge\\setor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -13,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\hackathons4echallenge\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|solutionrelative:hackathons4echallenge\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\hackathons4echallenge\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|solutionrelative:hackathons4echallenge\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\hackathons4echallenge\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|HackathonS4EChallenge\\HackathonS4EChallenge.vbproj|solutionrelative:hackathons4echallenge\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Setor.aspx",
               "DocumentMoniker": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\Setor.aspx",
               "RelativeDocumentMoniker": "HackathonS4EChallenge\\Setor.aspx",
@@ -56,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\Style\\style.css",
               "RelativeDocumentMoniker": "HackathonS4EChallenge\\Style\\style.css",
@@ -64,11 +60,12 @@
               "RelativeToolTip": "HackathonS4EChallenge\\Style\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-24T13:34:09.847Z"
+              "WhenOpened": "2024-02-24T13:34:09.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "About.aspx",
               "DocumentMoniker": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\About.aspx",
               "RelativeDocumentMoniker": "HackathonS4EChallenge\\About.aspx",
@@ -76,24 +73,12 @@
               "RelativeToolTip": "HackathonS4EChallenge\\About.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-24T13:30:28.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\Web.config",
-              "RelativeDocumentMoniker": "HackathonS4EChallenge\\Web.config",
-              "ToolTip": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\Web.config",
-              "RelativeToolTip": "HackathonS4EChallenge\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-02-24T13:25:17.31Z",
+              "WhenOpened": "2024-02-24T13:30:28.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\dani_\\source\\repos\\danibotelho\\HackathonS4E\\HackathonS4EChallenge\\Site.Master",
               "RelativeDocumentMoniker": "HackathonS4EChallenge\\Site.Master",
