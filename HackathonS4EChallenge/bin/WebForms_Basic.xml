@@ -37,13 +37,76 @@ HackathonS4EChallenge
  Retorna o objeto de log Asp.
  </summary>
 </member>
+<member name="F:HackathonS4EChallenge.Setor1._LBL_NomeSetor">
+<summary>
+Controle LBL_NomeSetor.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._TXT_NomeSetor">
+<summary>
+Controle TXT_NomeSetor.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._LBL_DescricaoSetor">
+<summary>
+Controle LBL_DescricaoSetor.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._TXT_DescricaoSetor">
+<summary>
+Controle TXT_DescricaoSetor.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._LBL_Gerente">
+<summary>
+Controle LBL_Gerente.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._DropDownList1_Gerente">
+<summary>
+Controle DropDownList1_Gerente.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:HackathonS4EChallenge.Setor1._BTN_Salvar">
+<summary>
+Controle BTN_Salvar.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
 <member name="F:HackathonS4EChallenge.SiteMaster._MainContent">
 <summary>
 Controle MainContent.
 </summary>
 <remarks>
 Campo gerado automaticamente.
-Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
 </remarks>
 </member>
 <member name="F:HackathonS4EChallenge.Site_Mobile._Head1">
